@@ -26,6 +26,8 @@ https://website-portfolio-six-tau.vercel.app/
 
 ## Version History
 
+* 0.4
+    * Additional pages
 * 0.3
     * Mobile compatability
 * 0.2
